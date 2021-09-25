@@ -1,2 +1,2 @@
 FROM python:3
-RUN /bin/sh -c "echo 'Hello Gitops: #2' > index.html"
+RUN /bin/sh -c "echo 'Hello Gitops: #3' > index.html"
